@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Edmond Dompreh and and i do context on Design and Development. im highly enthused in matters concerning learning programming languages and designing Arts</h1>
+<h1 align="center">Hi 👋, I'm Edmond Dompreh and i do content on Design and Development.I'm highly enthused in matters concerning learning programming languages and designing Arts</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm14cTI4b2E1eTJ1aHZzZHB2azg4ZGUxZXNncGFjcndhMW96YmR3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
